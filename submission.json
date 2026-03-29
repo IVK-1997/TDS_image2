@@ -1,0 +1,6 @@
+{
+  "prompt": "A realistic, studio-lit scene of a mannequin wearing a suit split into two halves. One half of the suit is perfectly tailored and clean, fitting naturally. The other half is excessively over-tailored, with too many seams, stitches, and unnatural tightness, distorting the fabric and shape. The overworked side looks strained and unnatural. The setting is a professional tailoring studio with subtle details like measuring tape and tools. No text, no labels, no diagrams. Highly detailed, photorealistic, symbolic representation of overfitting.",
+  "model": "DALL-E 3",
+  "concept": "overfitting",
+  "metaphor": "A suit tailored too precisely represents a model fitting training data too closely, losing generalization."
+}
